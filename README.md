@@ -1,2 +1,2 @@
 # PWSessions
-entrega da atividade de PW com sessões do segundo bimestre
+Entrega da atividade de PW envolvendo sessões e PHP do segundo bimestre. Dupla: Luan
